@@ -83,7 +83,7 @@ WantedBy=multi-user.target
 
 [Service]
 Type=simple
-WorkingDirectory=/opt/bot/check_oracle_bot
+WorkingDirectory=/opt/bot/cob
 ExecStart=/usr/bin/python3 main.py
 Restart=always
 ```
