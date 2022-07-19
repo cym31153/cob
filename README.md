@@ -102,7 +102,7 @@ systemctl start check_oracle_bot.service
 ## 脚本部署
 
 ```shell
-bash <(curl -sL https://raw.githubusercontent.com/tech-fever/check_oracle_bot/main/check_oracle.sh)
+bash <(curl -sL https://raw.githubusercontent.com/cym31153/cob/main/check_oracle.sh)
 ```
 
 使用预览：
